@@ -23,9 +23,9 @@
                     </div>
                 </div>
 
-                <label>Tilte</label>
+                <label>Title</label>
 <p>
-	{{ $topic->tilte }}
+	{{ $topic->title }}
 </p> <label>Body</label>
 <p>
 	{{ $topic->body }}
